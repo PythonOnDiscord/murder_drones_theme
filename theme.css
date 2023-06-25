@@ -3,7 +3,7 @@
 
 :root{
     --background: url('https://wallpapercave.com/wp/wp12024703.jpg');
-    --activetext-colour: black;
+    --activetext-colour: (13,17,23);
 
     --primary1-colour: rgba(252,249,117);
     --primary2-colour: rgba(127,84,189);
