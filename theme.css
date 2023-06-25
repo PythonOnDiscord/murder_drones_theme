@@ -7,11 +7,11 @@
 
     --primary1-colour: rgba(252,249,117);
     --primary2-colour: rgba(127,84,189);
-    --primary3-colour: rgba(251,250,249);
+    --primary3-colour: rgba(252,249,117);
 
     --secondary1-colour: rgba(252,249,117);
     --secondary2-colour: rgba(127,84,189);
-    --secondary3-colour: rgba(251,250,249);
+    --secondary3-colour: rgba(252,249,117);
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
