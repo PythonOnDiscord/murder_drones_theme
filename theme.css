@@ -1,0 +1,21 @@
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+    --background: url('https://wallpapercave.com/wp/wp12024703.jpg');
+    --activetext-colour: white;
+
+    --primary1-colour: rgba(252,249,117);
+    --primary2-colour: rgba(127,84,189);
+    --primary3-colour: rgba(251,250,249);
+
+    --secondary1-colour: rgba(252,249,117);
+    --secondary2-colour: rgba(127,84,189);
+    --secondary3-colour: rgba(251,250,249);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
